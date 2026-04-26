@@ -143,4 +143,4 @@ This project provides a structured analysis of global terrorism data. It shows h
 
 ## ✍️ Author
 
-**Adiba Ansari**
+**Anshika Thapliyal**
